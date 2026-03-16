@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.pth
+research_history.json
+report_*.md
+report_*.pdf
